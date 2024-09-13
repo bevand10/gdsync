@@ -26,9 +26,9 @@ The command supports these options:
 Requires service account credentials stored in `~/.gdsync/credentials.json`
 
 #### Google Drive config
-Requires settings in `~/.gdsync/config.ini`
+Requires `~/.gdsync/config.ini`. This setting specifies the root or parent folder described above.
 
 ```
 [default]
-root_folder_id = a_google_folder_id
+root_folder_id = 1LukDVnq2bSJpTkGgmHK6iV6fiXxMO4aw
 ```
