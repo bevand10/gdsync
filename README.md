@@ -14,6 +14,5 @@ Requires settings in `~/.gdsync/config.ini`
 ```
 [default]
 root_folder_id = a_google_folder_id
-root_folder_name = "name of the folder"
 ```
 
